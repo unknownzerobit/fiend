@@ -1,0 +1,4 @@
+1584932920198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCzRGeK"
+1584932928808	Marionette	INFO	Listening on port 44569
+1584932928896	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.

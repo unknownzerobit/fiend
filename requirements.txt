@@ -1,0 +1,53 @@
+######################################################
+#            coded by unknownzerobit                 #
+#    Github >> https://github.com/unknownzerobit     #                                                                                      
+#  Facebook >> https://www.facebook.com/empireisme10 # 
+#   twitter >> https://twitter.com/AhmedMa07846126   #
+######################################################
+
+
+1- download geckodriver and copy it to /usr/local/bin
+
+2- sudo apt-get update
+
+3- sudo apt-get install python3-pip
+
+4- pip3 install requests
+
+5- pip3 install selenium
+
+6- pip3 install termcolor
+
+##########################################################
+
+
+if anonsurf tool dosen't work try this is a solution
+
+use commands to fix
+
+sudo service ntp stop
+sudo ntpd -gq
+sudo service ntp start
+
+sudo tor
+
+Now Start anonsurf
+
+##########################################################
+
+#another solution
+
+
+sudo apt-get install ntpdate
+
+sudo ntpdate -v pool.ntp.org
+
+##########################################################
+
+Thank you :)
+
+
+
+
+  
+
