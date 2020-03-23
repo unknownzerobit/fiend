@@ -30,26 +30,29 @@ twitter >> https://twitter.com/AhmedMa07846126
 Attention!!
 please read requirements.txt to setup my tool :)
 
-content:
+
 #i tried my tool on kalilinux and it will not work on termux :(
 
-1- bruteforce attack
-ex: facebook
-ex2: twitter
-ex3: instagram
+content:
 
-2- phishing attack
+1- Bruteforce Attack
+[*]Facebook(limit 15 words/15 minutes)
+ex2: Twitter(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf after you finish use this (anonsurf stop).
+ex3: Instagram(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf after you finish use this (anonsurf stop).
 
-3- send email (html and text email)
-
-4- send sms (please use fast vpn if it dosent't work in your country )
-
-5- cuteit-master(my edit version)
-
-6- cupp-master
+2- Phishing Attack(you can add beef hook for your fake pages + receive informations about your victim to your email) #Please use  Less secure app access option in your email from here https://myaccount.google.com/u/1/lesssecureapps make it on.
 
 
-if you have any problem please tell me and i will help you :)
+3- Send email (html and text email)
+
+4- Send sms (please use fast vpn if it dosent't work in your country )
+
+5- Cuteit-Master(my edit version)
+
+6- Cupp-Master
+
+
+If you have any problem please tell me and i will help you :)
 
 Enjoy!!
 
