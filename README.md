@@ -13,7 +13,7 @@
                                    +-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+-+-+-+-+-+-+-+--
                                    |c|o|d|e|d| |b|y| |u|n|k|n|o|w|n|z|e|r|o|b|i|t|
                                    *-*-*-*-*-* *-*-* *---------------------------*
-                                            #Social Engineering Tool
+                                            #Social Engineering Tool#
 
 
 
@@ -59,6 +59,8 @@ Enjoy!!
 
 Donate:
 
-bitcoin address:
-dogecoin address:
-ethruim address:
+Bitcoin address: 1NsQZ4grhVZ84fu1yUdpeL4TyxyT73PJjs
+
+Dogecoin address: D5SiJj6U98pEPNivLRYu2Mhpj5VBjoqXUq
+
+Ethruim address: 0xe3E4773104A44Dc87b1c0458aabbb693119A1DE7
