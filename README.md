@@ -52,6 +52,11 @@ ex3: Instagram(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf aft
 6- Cupp-Master
 
 
+You can watch my videos for how you can use fiend tool 
+1- https://www.youtube.com/watch?v=s-p15MksByQ
+2- https://www.youtube.com/watch?v=bIV6t9kiUz0
+
+
 If you have any problem please tell me and i will help you :)
 
 Enjoy!!
