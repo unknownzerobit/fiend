@@ -36,11 +36,16 @@ please read requirements.txt to setup my tool :)
 content:
 
 1- Bruteforce Attack
+
 [*]Facebook(limit 15 words/15 minutes)
+
 ex2: Twitter(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf after you finish use this (anonsurf stop).
+
 ex3: Instagram(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf after you finish use this (anonsurf stop).
 
-2- Phishing Attack(you can add beef hook for your fake pages + receive informations about your victim to your email) #Please use  Less secure app access option in your email from here https://myaccount.google.com/u/1/lesssecureapps make it on.
+2- Phishing Attack(you can add beef hook for your fake pages + receive informations about your victim to your email) #Please use  Less 
+
+secure app access option in your email from here https://myaccount.google.com/u/1/lesssecureapps make it on.
 
 
 3- Send email (html and text email)
@@ -53,7 +58,9 @@ ex3: Instagram(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf aft
 
 
 You can watch my videos for how you can use fiend tool 
+
 1- https://www.youtube.com/watch?v=s-p15MksByQ
+
 2- https://www.youtube.com/watch?v=bIV6t9kiUz0
 
 
