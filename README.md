@@ -39,9 +39,9 @@ content:
 
 [*]Facebook(limit 15 words/15 minutes)#Please don't use the same wordlist on the same user and use strong wordlist.
 
-ex2: Twitter(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf after you finish use this (anonsurf stop).
+[*] Twitter(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf after you finish use this (anonsurf stop).
 
-ex3: Instagram(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf after you finish use this (anonsurf stop).
+[*] Instagram(Limit 15 words/15 minutes + anonsurf ) #Please close anonsurf after you finish use this (anonsurf stop).
 
 2- Phishing Attack(you can add beef hook for your fake pages + receive informations about your victim to your email) #Please use  Less 
 
