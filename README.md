@@ -73,3 +73,10 @@ Bitcoin address: 1NsQZ4grhVZ84fu1yUdpeL4TyxyT73PJjs
 Dogecoin address: D5SiJj6U98pEPNivLRYu2Mhpj5VBjoqXUq
 
 Ethruim address: 0xe3E4773104A44Dc87b1c0458aabbb693119A1DE7
+
+
+speacial thanks for 
+
+https://github.com/Mebus
+https://github.com/D4Vinci
+https://github.com/DarkSecDevelopers
