@@ -75,7 +75,7 @@ Dogecoin address: D5SiJj6U98pEPNivLRYu2Mhpj5VBjoqXUq
 Ethruim address: 0xe3E4773104A44Dc87b1c0458aabbb693119A1DE7
 
 
-speacial thanks for 
+special thanks for 
 
 #https://github.com/Mebus
 
